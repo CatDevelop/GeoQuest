@@ -8,8 +8,8 @@
 
 ## Иллюстрации:
 ![Menu](https://raw.githubusercontent.com/CatDevelop/GeoQuest/main/Resources/IMG/Demo1.png "GeoQuest")
-![Auth](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/IMG/Demo2.png "GeoQuest")
-![Help](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/IMG/Demo3.png "GeoQuest")
-![Task1](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/IMG/Demo4.png "GeoQuest")
-![Task2](https://raw.githubusercontent.com/CatDevelop/Library/main/Resources/IMG/Demo5.png "GeoQuest")
+![Auth](https://raw.githubusercontent.com/CatDevelop/GeoQuest/main/Resources/IMG/Demo2.png "GeoQuest")
+![Help](https://raw.githubusercontent.com/CatDevelop/GeoQuest/main/Resources/IMG/Demo3.png "GeoQuest")
+![Task1](https://raw.githubusercontent.com/CatDevelop/GeoQuest/main/Resources/IMG/Demo4.png "GeoQuest")
+![Task2](https://raw.githubusercontent.com/CatDevelop/GeoQuest/main/Resources/IMG/Demo5.png "GeoQuest")
 
